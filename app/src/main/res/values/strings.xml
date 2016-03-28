@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COMP3275A2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sensor_results">Sensor Results</string>
+    <string name="title_activity_location_results">Location Results</string>
+    <string name="title_activity_bluetooth">Bluetooth</string>
+    <string name="title_activity_all_stored_locations">All Stored Locations</string>
+</resources>
